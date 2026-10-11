@@ -1,0 +1,7 @@
+C:\Users\guilh\Desktop\projGerenciador\projGerenciador\bin\Debug\projGerenciador.exe.config
+C:\Users\guilh\Desktop\projGerenciador\projGerenciador\bin\Debug\projGerenciador.exe
+C:\Users\guilh\Desktop\projGerenciador\projGerenciador\bin\Debug\projGerenciador.pdb
+C:\Users\guilh\Desktop\projGerenciador\projGerenciador\obj\Debug\projGerenciador.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\projGerenciador\projGerenciador\obj\Debug\projGerenciador.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\projGerenciador\projGerenciador\obj\Debug\projGerenciador.exe
+C:\Users\guilh\Desktop\projGerenciador\projGerenciador\obj\Debug\projGerenciador.pdb
